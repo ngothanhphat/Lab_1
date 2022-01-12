@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="nh_p_s_th_1">Nhập số thứ 1</string>
+    <string name="nh_p_s_th_2">Nhập số thứ 2</string>
+    <string name="textview">TextView</string>
+    <string name="c_ng">Cộng</string>
+    <string name="k_t_qu">Kết quả</string>
+</resources>
